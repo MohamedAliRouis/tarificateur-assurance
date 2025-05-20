@@ -1,0 +1,22 @@
+.devis-form label {
+  font-weight: 500;
+}
+
+.devis-form .form-control:focus,
+.devis-form .form-select:focus {
+  border-color: var(--axa-blue-light);
+  box-shadow: 0 0 0 0.2rem rgba(0, 0, 143, 0.25);
+}
+
+.required:after {
+  content: " *";
+  color: var(--axa-red);
+}
+
+.card {
+  margin-bottom: 2rem;
+}
+
+.card-header {
+  font-weight: 600;
+}

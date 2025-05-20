@@ -1,0 +1,23 @@
+.table-responsive {
+  overflow-x: auto;
+}
+
+.table th {
+  cursor: pointer;
+}
+
+.table th.asc::after {
+  content: " ↑";
+}
+
+.table th.desc::after {
+  content: " ↓";
+}
+
+.table td {
+  vertical-align: middle;
+}
+
+.filter-input {
+  margin-bottom: 1rem;
+}
