@@ -115,7 +115,6 @@ Les documents générés contiennent :
 - Détails du projet et du chantier
 - Garanties et options choisies
 - Montants et franchises
-- Conditions générales
 
 ### Structure du projet
     
