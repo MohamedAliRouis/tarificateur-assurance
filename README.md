@@ -1,4 +1,4 @@
-#titreTarificateur Assurance
+#titre Tarificateur Assurance
 Application de gestion des devis d'assurance pour les garanties de construction (DO, TRC et RCMO).
 
 Vue d'ensemble
